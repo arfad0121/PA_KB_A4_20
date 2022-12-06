@@ -18,9 +18,6 @@
 
 <h2>Jobs Desk : </h2>
 <ul>
-	<li>Rausyanfikr Adi Karmayoga : Ketua Kelompok, Data Augmentasi(preprocessing)</li>
-  <li>Fathia Nuq Qamarina : Data Collecting, Data Visualisasi</li>
-	<li>Muhamad Rizky Nilzamyahya : Data Modelling</li>
 </ul>
 
 # Pendeteksi Masker
